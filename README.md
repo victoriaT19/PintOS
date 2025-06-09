@@ -53,9 +53,5 @@ Todos os testes fornecidos pelo PintOS foram utilizados, incluindo:
 
 Para rodar todos os testes:
 
-```bash
-cd threads
-make clean
-make check
 
 
